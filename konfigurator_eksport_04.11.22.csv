@@ -1,0 +1,31 @@
+﻿Count,Name,Distance1,Producer,Type,EUROPA_NPCS_V0.1,typ palety,czujniki,prowadnice do kabli,prowadzenia,przejścia,kotwy,CUSTOM
+6,3ciegnowy,5120.0000,NORD,Inverter with brake,1,,YES,YES,YES,NO,,
+1,3ciegnowy,2004.0000,Producer,SEW,1,,NO,YES,YES,YES,,
+1,3ciegnowy,4720.0000,NORD,Decentralized technology,1,,,,,,,
+1,3ciegnowy,1204.0000,SEW,Decentralized technology,1,,,,,,,
+1,3ciegnowy,1204.0000,not selected,SEW,1,,,,,,,
+1,3ciegnowy,1204.0000,Producer,SEW,1,,,,,,,
+1,3ciegnowy,3420.0000,Producer,SEW,1,,NO,NO,YES,NO,,
+1,rolkowy_03.11.2022,3619.5010,Unselected,1.00,,EURO,Off,Off,,Off,On,malinowy motoreduktor
+1,rolkowy_03.11.2022,3619.5010,Unselected,1.00,,EURO,,,,,,None
+1,rolkowy_03.11.2022,1524.0010,Unselected,1.00,,EURO,,,,,,None
+5,rolkowy_03.11.2022,3810.0010,Unselected,1.00,,EURO,,,,,,None
+1,rolkowy_03.11.2022,3810.0010,Unselected,1.00,,EURO,,,,,,malinowy motoreduktor
+1,rolkowy_03.11.2022,4953.0010,Unselected,1.00,,EURO,Off,On,,Off,On,None
+6,rolkowy_03.11.2022,4381.5010,SEW,Inverter,,EURO,On,Off,,Off,On,None
+1,rolkowy_03.11.2022,3810.0010,Unselected,1.00,,EURO,On,On,,Off,On,None
+1,rolkowy_03.11.2022,2476.5010,Unselected,1.00,,EURO,On,On,,Off,On,None
+1,rolkowy_03.11.2022,4191.0010,Unselected,1.00,,EURO,Off,On,,Off,On,None
+1,rolkowy_03.11.2022,4000.5010,Unselected,1.00,,EURO,On,Off,,On,Off,None
+1,rolkowy_03.11.2022,3048.0010,Unselected,1.00,,EURO,,,,,,None
+2,rolkowy_03.11.2022,4191.0010,SEW,Standard ,,EURO,On,On,,Off,On,malinowy motoreduktor
+1,rolkowy_03.11.2022,4191.0010,None,,,EURO,On,On,,Off,On,None
+6,rolkowy_03.11.2022,4191.0010,SEW,Standard ,,EURO,On,On,,Off,On,None
+1,rolkowy_03.11.2022,1524.0010,NORD,Decentralized technology with brake,,EURO,On,On,,On,On,None
+1,rolkowy_03.11.2022,1524.0010,NORD,Decentralized technology,,EURO,On,On,,On,Off,None
+2,rolkowy_03.11.2022,2667.0010,Unselected,1.00,,EURO,On,On,,On,Off,None
+1,rolkowy_03.11.2022,3619.5010,Unselected,1.00,,EURO,Off,On,,Off,On,None
+1,rolkowy_03.11.2022,5143.5010,Unselected,1.00,,EURO,On,On,,Off,Off,malinowy motoreduktor
+1,rolkowy_03.11.2022,4953.0010,Unselected,1.00,,EURO,On,On,,On,Off,None
+1,rolkowy_03.11.2022,5334.0010,None,,,EURO,Off,On,,Off,On,None
+1,rolkowy_03.11.2022,5334.0010,LENZE,Decentralized technology with brake,,EURO,,,,,,None
